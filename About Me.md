@@ -4,7 +4,7 @@ title: About Me
 permalink: /About Me/
 ---
 
-Hello, my name is Kaiyuan Shi, and I prefer people to call me Sky, which are also the intial letters of my Chinese name.
+Hello, my name is Kaiyuan Shi, and I prefer people to call me Sky, which are also the initial letters of my Chinese name.
 I am currently working as a research assistant at Fudan University in professor [Dingyu Shao's Research Group](https://shaodingyu.github.io/).
 
 I received my B.S. in Physics from University of California- Los Angeles in 2022.
