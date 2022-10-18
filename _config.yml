@@ -14,7 +14,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/Contact'}
 
 tagline: >
-  Modern Jekyll theme focused on speed performance &amp; SEO best practices
+  Welcome! I'm Kaiyuan Shi. I'm interested in the fundamental structures of this universe.
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
