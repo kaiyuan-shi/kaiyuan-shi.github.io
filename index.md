@@ -7,3 +7,7 @@
 layout: default
 title: Home
 ---
+
+Welcome!
+
+You can find my CV in the "About Me" section.
