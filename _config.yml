@@ -20,8 +20,8 @@ hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/
 
 email: skyshi@g.ucla.edu # email for form submission
 
-disqus:
-  shortname: Sky Shi
+#disqus:
+#  shortname: Sky Shi
 
 service_worker: true
 
