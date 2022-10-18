@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 title: Personal Website of Kaiyuan Shi
 author: Kaiyuan Shi
-description: > This is the personal website of Kaiyuan Shi.
+description: >
   This is the personal website of Kaiyuan Shi.
 baseurl: "/sleek" # the subpath of your site, e.g. /blog
 url: "https://janczizikow.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
