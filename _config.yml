@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-title: Sky Shi Personal Homepage
+title: Sky's Personal Homepage
 author: Sky Shi
 description: >
   Welcome! I'm Kaiyuan Shi. I'm interested in the fundamental structures of this universe.
@@ -10,12 +10,14 @@ url: "https://kaiyuan-shi.github.io/" # the base hostname & protocol for your si
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'Projects', link: '/Projects'}
-  - {name: 'About Me', link: '/About'}
+  - {name: 'About Me', link: '/About Me'}
   - {name: 'Contact', link: '/Contact'}
 
 tagline: >
-  Welcome! I'm Kaiyuan Shi. I'm interested in the fundamental structures of this universe.
-
+  Welcome to my homepage!
+  Sky is currently seeking research opportunities as a Ph.D. student.
+  Sky is interested in the fundamental structures of this universe- the particles that make up our world.
+  
 hero_img: posts/SB_sunset.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: skyshi@g.ucla.edu # email for form submission
