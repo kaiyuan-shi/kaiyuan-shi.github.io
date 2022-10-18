@@ -16,7 +16,7 @@ navigation: # Navigation links
 tagline: >
   Welcome! I'm Kaiyuan Shi. I'm interested in the fundamental structures of this universe.
 
-hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/SB_sunset.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: skyshi@g.ucla.edu # email for form submission
 
