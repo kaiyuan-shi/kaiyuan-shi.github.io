@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CV
-permalink: /CV/
+title: About Me
+permalink: /About Me/
 ---
 
-Please see my CV here: <a href="CV_SkyShi.pdf" target="_blank">PDF<a>
+Please see my <a href="CV_SkyShi.pdf" target="_blank">CV<a> here.
