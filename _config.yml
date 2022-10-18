@@ -10,7 +10,7 @@ url: "https://kaiyuan-shi.github.io/" # the base hostname & protocol for your si
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'Projects', link: '/Projects'}
-  - {name: 'CV', link: '/CV'}
+  - {name: 'About Me', link: '/About'}
   - {name: 'Contact', link: '/Contact'}
 
 tagline: >
