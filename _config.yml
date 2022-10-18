@@ -6,12 +6,6 @@ description: >
 baseurl: "/Sky Shi"
 url: "https://kaiyuan-shi.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
-# SEO PLUGIN
-social:
-  name: Sky Shi
-  I know there should be some "social media" section here. But I don't use any of them.
-  Please see the contact section to find me.
-
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
