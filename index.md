@@ -7,3 +7,5 @@
 layout: default
 title: Home
 ---
+
+Test if text is available.
