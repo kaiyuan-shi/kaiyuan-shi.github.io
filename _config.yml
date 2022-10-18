@@ -8,8 +8,8 @@ url: "https://kaiyuan-shi.github.io/" # the base hostname & protocol for your si
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Home', link: '/'}
-  - {name: 'Projects', link: '/Projects'}
+  - {name: 'Home', link: '/Projects'}
+  - {name: 'Projects', link: '/'}
   - {name: 'About Me', link: '/About Me'}
   - {name: 'Contact', link: '/Contact'}
 
