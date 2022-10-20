@@ -16,6 +16,6 @@ I am always ready to explore more.
 By the way, I also enjoy philosophy.
 My favorite philosophers are Plato and Nietzsche (my apologies to some philosophy students).
 I think Physics contains great philosophy and aesthetics.
-<em>"Formulas are the poetry of math."</em>
+<em>Formulas are the poetry of math.</em>
 
 Please see my CV <a href="CV_SkyShi.pdf" target="_blank">here<a>.
