@@ -5,7 +5,7 @@ permalink: /About Me/
 ---
 
 Hello, my name is Kaiyuan Shi, and I prefer people to call me Sky, which are also the initial letters of my Chinese name.
-I am currently working as a research assistant in professor [Dingyu Shao's Research Group](https://shaodingyu.github.io/) at Fudan University and [QCD](https://kang-research-group.physics.ucla.edu/) theory group at UCLA. My current project is on the azimuthal correlation of isolated photon-hadron production in pp and pA collisions.
+I am currently working as a research assistant in professor [Dingyu Shao's Research Group](https://shaodingyu.github.io/) at Fudan University and [QCD Theory Group](https://kang-research-group.physics.ucla.edu/) at UCLA. My current project is on the azimuthal correlation of isolated photon-hadron production in pp and pA collisions.
 
 I received my B.S. in Physics from University of California- Los Angeles in 2022.
 My interests are in the elementary particles that make up our universe, and I am passionate about both experiments and theories in this field.
