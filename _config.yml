@@ -16,7 +16,8 @@ navigation: # Navigation links
 tagline: >
   Welcome to my homepage!
   Sky is currently seeking research opportunities as a Ph.D. student.
-  Sky is interested in the fundamental structures of this universe- the particles that make up our world, and he enjoys doing both experiment and theory. \n
+  Sky is interested in the fundamental structures of this universe- the particles that make up our world, and he enjoys doing both experiment and theory. >
+  
   In the background is the sunset on the coast of Santa Barbara. This is where his journey in Physics started.
   
 hero_img: posts/SB_sunset.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
