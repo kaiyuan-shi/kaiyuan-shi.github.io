@@ -1,6 +1,6 @@
 ---
-layout: post
+layout: page
 title: "Azimuthal Correlation of Isolated Photon-Hadron Production at Mid Rapidity"
 ---
 
-We investigated.
+Azimuthal Correlation of Isolated Photon-Hadron Production at Mid Rapidity.
